@@ -1,0 +1,28 @@
+.font-r-m {
+  font-family: "roboto", sans-serif;
+  font-weight: 500;
+}
+
+.font-f-b {
+  font-family: "Fira-sans", sans-serif;
+  font-weight: 700;
+}
+
+.font-f-m {
+  font-family: "Fira-sans", sans-serif;
+  font-weight: 500;
+}
+
+.font-u-m {
+  font-family: "Urbanist", serif;
+  font-weight: 500;
+}
+.font-u-b {
+  font-family: "Urbanist", serif;
+  font-weight: 700;
+}
+
+.font-v-b {
+  font-family: "Vollkorn", sans-serif;
+  font-weight: 700;
+}
